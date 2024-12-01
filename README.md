@@ -23,5 +23,7 @@ x86-64 Program (distance_asm.asm):
 <h3>Comparative Execution Time</h3>
 <hr>
 
+![image](https://github.com/user-attachments/assets/a302522d-f1a8-4ec1-8eb7-747ef51e72f1)
+
 <h3>Analysis <h3>
 <hr>
